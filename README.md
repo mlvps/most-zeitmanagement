@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MO:ST Zeitmanagement](assets/icon.png)
+<img src="assets/icon.png" alt="MO:ST Zeitmanagement" width="128">
 
 **Professionelle Zeiterfassung und Fokus-Tool für macOS**
 
@@ -49,14 +49,7 @@
 - **Background Downloads** - Unterbrechungsfreie Updates
 - **Ein-Klick Installation** - Nahtlose Update-Erfahrung
 
-## 📱 Screenshots
 
-<div align="center">
-<img src="https://via.placeholder.com/800x500/1a1a1a/4f8cff?text=MO%3AST+Zeitmanagement+Main+App" alt="Hauptansicht" width="100%">
-<br><br>
-<img src="https://via.placeholder.com/400x300/1a1a1a/4f8cff?text=Timer+Overlay" alt="Timer Overlay" width="49%">
-<img src="https://via.placeholder.com/400x300/1a1a1a/4f8cff?text=Analytics+Dashboard" alt="Analytics" width="49%">
-</div>
 
 ## 🚀 Installation
 
@@ -119,13 +112,13 @@ MO:ST Zeitmanagement **updated sich automatisch**:
 ## 🤝 **Support**
 
 Bei Fragen oder Problemen:
-- 📧 **Email**: [support@most-zeitmanagement.com](mailto:support@most-zeitmanagement.com)
+- 📧 **Email**: [morina@mostagentur.at](mailto:morina@mostagentur.at)
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/mlvps/most-zeitmanagement/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/mlvps/most-zeitmanagement/discussions)
 
 ## 📄 **Lizenz**
 
-© 2024 MO:ST Zeitmanagement. Alle Rechte vorbehalten.
+© 2025 MO:ST Zeitmanagement. Alle Rechte vorbehalten.
 
 ---
 
@@ -133,6 +126,6 @@ Bei Fragen oder Problemen:
 
 **🎯 Entwickelt für maximale Produktivität und Fokus**
 
-[Website](https://most-zeitmanagement.com) • [Download](https://github.com/mlvps/most-zeitmanagement/releases/latest) • [Support](mailto:support@most-zeitmanagement.com)
+[Website](https://mostagentur.at) • [Download](https://github.com/mlvps/most-zeitmanagement/releases/latest) • [Support](mailto:morina@mostagentur.at)
 
 </div>
