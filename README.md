@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/icon.png" alt="MO:ST Zeitmanagement" width="128">
+🎯
 
 **Professionelle Zeiterfassung und Fokus-Tool für macOS**
 

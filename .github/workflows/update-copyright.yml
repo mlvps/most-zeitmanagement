@@ -9,16 +9,16 @@ on:
 jobs:
   update-copyright:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
+
     - name: Update copyright year
       run: |
         current_year=$(date +%Y)
         sed -i "s/© [0-9]\{4\}/© $current_year/g" README.md
-        
+
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
